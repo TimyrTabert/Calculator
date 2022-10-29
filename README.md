@@ -1,7 +1,7 @@
-```
+
 # Calculator
 ![Screenshot](Calculator.png)
-
+```
 Калькулятор с сложением
 Вычитанием
 Умножением
