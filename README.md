@@ -1,6 +1,6 @@
 ```
 # Calculator
-![Screenshot](Снимок экрана_20221029_212200.png)
+![Screenshot](Calculator.png)
 
 Калькулятор с сложением
 Вычитанием
